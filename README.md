@@ -49,11 +49,8 @@ A simple web application for searching movies, saving them to a personal watchli
 - Fork the repo, create a branch, add tests, and open a PR. Document important decisions and any migration steps.
 
 **License**
-- Add a license of your choice (MIT recommended for starters).
+- (MIT License).
 
-**Next steps you might ask me to do**
-- Scaffold a minimal React + Express starter for this project.
-- Add authentication and example seed data.
-- Implement the OMDb proxy route and the watchlist API.
+
 
 ---
